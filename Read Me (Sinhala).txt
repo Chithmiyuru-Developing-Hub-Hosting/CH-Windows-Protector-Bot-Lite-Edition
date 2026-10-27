@@ -1,0 +1,68 @@
+========================================================================
+           🔒 WINDOWS PROTECTOR BOT - නිල මාර්ගෝපදේශය
+========================================================================
+
+Developed by : Chithmiyuru Development Hub
+Release Type : Full Premium Version (Ice Blue Transparent Edition)
+
+Windows Protector Bot කියන්නේ ඔබගේ පරිගණකයට අනවසරයෙන් ඇතුළු වන 
+පුද්ගලයින්ගෙන් පද්ධතිය ආරක්ෂා කර දෙන ප්‍රබල ආරක්ෂක මෘදුකාංගයකි. 
+පරිගණකය පණගැන්වූ සැණින් හෝ කිසිදු ක්‍රියාකාරකමකින් තොරව තිබෙන විට 
+(Idle Timeout), Windows Key ඇතුළු සියලුම Bypass Shortcut බ්ලොක් කරමින් 
+තිරය සම්පූර්ණයෙන්ම අගුළු (Lock) දැමීමට මෙය සමත් වේ.
+
+------------------------------------------------------------------------
+💻 අවම පද්ධති අවශ්‍යතා (MINIMUM SYSTEM REQUIREMENTS)
+------------------------------------------------------------------------
+• Operating System : Windows 10 / Windows 11 (64-bit)
+• Framework        : PowerShell 5.1 හෝ ඊට ඉහළ සහ .NET Framework 4.5+
+• Processor (CPU)  : Intel Core i3 / AMD Ryzen 3 හෝ ඊට ඉහළ (Dual-Core+)
+• Memory (RAM)     : 4 GB RAM (8 GB හෝ ඊට ඉහළ නිර්දේශිතයි)
+• Graphics (GPU)   : Intel HD Graphics / AMD Radeon Graphics (DirectX 11+)
+• Storage Space    : 50 MB නිදහස් ඉඩක් (Intruder Snapshots සේව් වීම සඳහා)
+• Hardware         : Webcam එකක් තිබීම අනිවාර්ය වේ (Intruder Snapshot සඳහා)
+• Sound            : Built-in Speakers / Audio output (Alarm සඳහා)
+
+------------------------------------------------------------------------
+🚀 මෘදුකාංගය නිවැරදිව භාවිත කරන්නේ කෙසේද? (STEP-BY-STEP)
+------------------------------------------------------------------------
+
+👉 පියවර 1: CONFIGURATION (සැකසුම් සකස් කිරීම)
+   • පළමුව 'Setup.bat' ෆයිල් එක ධාවනය (Run) කරන්න.
+   • එහිදී ඔබ කැමති ආරක්ෂිත PIN අංකයක් (Password) සහ කාලයන් (Timers) 
+     ඇතුළත් කර "UPDATE & APPLY CHANGES" බොත්තම ඔබන්න.
+
+👉 පියවර 2: STARTUP ENABLE (ස්වයංක්‍රීයව පණගැන්වීම සකසා ගැනීම)
+   • පරිගණකය On වෙද්දීම බෝට් එක වැඩ කරන්න නම්, Setup එකේ ඇති 
+     "ADD TO STARTUP APP" බොත්තම ඔබන්න.
+   • එවිට පසුබිමෙන් කිසිදු කළු CMD Window එකක් මතු නොවී, නිහඬවම 
+     Windows Task Scheduler එක සහ පියවර 7ක් අඩංගු ඉංග්‍රීසි උපදෙස් මාලාව 
+     (Notepad) විවෘත වේ. එහි ඇති පියවර අනුගමනය කර එය සකසන්න.
+
+👉 පියවර 3: APP ධාවනය කිරීම
+   • දැන් 'ProtectorBot.bat' ෆයිල් එක ධාවනය කරන්න.
+   • එවිට Windows 11 විලාසිතාවේ Premium Light Blue Transparent 
+     තිරයක් සමඟ සිනිදු Slide-up Animation එකකින් යුතුව බෝට් එක පණ ගැන්වේ.
+
+------------------------------------------------------------------------
+⚠️ ප්‍රධාන ආරක්ෂක විශේෂාංග (CORE SECURITY FEATURES)
+------------------------------------------------------------------------
+• Premium Low-Level Hook: නිවැරදි PIN එක ගසන තෙක් Windows Key, 
+  Alt+Tab, Alt+F4 හෝ Escape මඟින් ඇප් එක අක්‍රිය කළ නොහැක.
+• Persistent Watchdog: Task Manager මඟින් බලහත්කාරයෙන් ඇප් එක වැසුවත්, 
+  ක්ෂණිකව එය ස්වයංක්‍රීයව නැවත ක්‍රියාත්මක වේ (Auto-Restart).
+• Native System Alarm: වැරදි PIN එකක් ගැසූ සැණින්, සකසා ඇති 
+  Threat Countdown කාලය පුරාවටම Windows හි නිල Alarm එක නාද වේ.
+• Intruder Capture: වැරදි PIN එකක් ගැසූ සැණින් හොරෙන් ඇතුළු වූ 
+  පුද්ගලයාගේ ඡායාරූපයක් Webcam එක හරහා රහසිගතව Vault එක තුළ සේව් වේ.
+• Force Shutdown Guard: Threat Countdown තයිමරය අවසන් වූ සැණින් 
+  රතු පැහැති "Access Denied" තිරය තත්පර 4ක් පෙන්වා, පරිගණකය වහාම 
+  බලහත්කාරයෙන් නිවා දමයි (Force Shutdown).
+
+------------------------------------------------------------------------
+📞 සම්බන්ධ කර ගැනීමට (CONTACT & SUPPORT)
+------------------------------------------------------------------------
+📧 Email      : chithmiyurugaming@gmail.com
+💬 Discord    : yurei_hunter
+💻 GitHub     : Chithmiyuru Development Hub
+========================================================================

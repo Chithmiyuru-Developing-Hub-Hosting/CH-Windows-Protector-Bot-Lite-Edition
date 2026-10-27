@@ -1,0 +1,65 @@
+========================================================================
+           🔒 WINDOWS PROTECTOR BOT - OFFICIAL DOCUMENTATION
+========================================================================
+
+Developed by : Chithmiyuru Development Hub
+Release Type : Full Premium Version (Ice Blue Transparent Edition)
+
+Windows Protector Bot is a powerful security software designed to protect 
+your PC from unauthorized access. The moment your PC boots up or remains 
+idle, it forces a secure system lock, entirely blocking Windows Keys and 
+all major bypass keyboard shortcuts until the correct PIN is provided.
+
+------------------------------------------------------------------------
+💻 MINIMUM SYSTEM REQUIREMENTS
+------------------------------------------------------------------------
+• Operating System : Windows 10 / Windows 11 (64-bit)
+• Framework        : PowerShell 5.1 or higher & .NET Framework 4.5+
+• Processor (CPU)  : Intel Core i3 / AMD Ryzen 3 or higher (Dual-Core+)
+• Memory (RAM)     : 4 GB RAM (8 GB or higher recommended)
+• Graphics (GPU)   : Intel HD Graphics / AMD Radeon Graphics (DirectX 11+)
+• Storage Space    : 50 MB available space (For saving intruder snapshots)
+• Hardware         : Functional Webcam required (For Intruder Capture)
+• Sound            : Built-in Speakers / Audio output (For Alert System)
+
+------------------------------------------------------------------------
+🚀 HOW TO USE THE APPLICATION (STEP-BY-STEP)
+------------------------------------------------------------------------
+
+👉 STEP 1: CONFIGURATION
+   • Run the 'Setup.bat' file.
+   • Set your custom Security PIN and tweak the lock timers.
+   • Click "UPDATE & APPLY CHANGES" to save configurations.
+
+👉 STEP 2: ENABLE STARTUP (RECOMMENDED)
+   • To make the bot secure your PC instantly upon boot, click the 
+     "ADD TO STARTUP APP" button inside the Setup window.
+   • This will silently trigger the Windows Task Scheduler along with 
+     a text tutorial guide in Notepad. Follow the 7 quick steps to link it.
+
+👉 STEP 3: LAUNCH PROTECTION
+   • Launch 'ProtectorBot.bat' to activate the bot.
+   • The application will load with a premium Windows 11 Light Blue 
+     Transparent interface accompanied by a smooth slide-up animation.
+
+------------------------------------------------------------------------
+⚠️ CORE SECURITY FEATURES
+------------------------------------------------------------------------
+• Premium Low-Level Hook: Completely traps Windows Key, Alt+Tab, 
+  Alt+F4, and Escape keys. The screen cannot be bypassed without the PIN.
+• Persistent Watchdog: If an intruder force-closes the application via 
+  clandestine methods, the script loop auto-restarts the bot instantly.
+• Native System Alarm: Triggers official Windows secure alarm audio 
+  iteratively every second throughout the Threat Countdown sequence.
+• Intruder Capture: Secretly snaps a high-resolution webcam image of 
+  the intruder upon entering a wrong PIN, saved securely inside the Vault.
+• Force Shutdown Guard: If the Threat Countdown expires, it displays 
+  a crimson "Access Denied" overlay for 4 seconds and forces a hard shutdown.
+
+------------------------------------------------------------------------
+📞 CONTACT & SUPPORT
+------------------------------------------------------------------------
+📧 Email      : chithmiyurugaming@gmail.com
+💬 Discord    : yurei_hunter
+💻 GitHub     : Chithmiyuru Development Hub
+========================================================================
